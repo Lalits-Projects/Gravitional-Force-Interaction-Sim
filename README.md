@@ -5,11 +5,10 @@ This is my Python Gravitional Force Interaction Sim!
 - N-body pairwise gravity with softening
 - Symplectic Euler integration (stable for orbits)
 - Motion trails & simple wall bounces
-- Optional screen recording to MP4
 
 ## Requirements
-- Python 3.10+
-- pygame, numpy, opencv-python
+- Python
+- pygame
 
 
 # Video Demo Below!
